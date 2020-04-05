@@ -1,4 +1,6 @@
 package pets;
 
-public class petActions {
+public interface petActions {
+
+    String speak();
 }
